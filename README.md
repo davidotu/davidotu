@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidotu
-- 👀 I’m interested in software development and web design
-- 🌱 I’m currently learning Python and Django framework
-- 💞️ I’m looking to collaborate other developer and experts
+- 👀 I’m a software and DevOps engineer 
+- 🌱 I’m currently developing applications using C# .Net and Django framework
+- 💞️ I’m looking to collaborate withother developer and experts
 - 📫 How to reach me email: dee2spaz98@gmail.com
 
 <!---
